@@ -2,7 +2,7 @@
  <h1 align="center">Hola Soy Camilo </h1>
  <h2 align="center">Colombia/Bogotá</h2>
  <p align="center">
-  <img src="![alt text](Facebook-Linkedin-image-template-10.jpg)" alt="">
+  <img src="C:\Users\Camil\Desktop\JCcastroEsteban\Facebook-Linkedin-image-template-10.jpg" alt="">
 </p>
 
  <h3>Sobre mi</h3>
