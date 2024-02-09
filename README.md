@@ -2,7 +2,7 @@
  <h1 align="center">Hola Soy Camilo </h1>
  <h2 align="center">Colombia/Bogotá</h2>
  <p align="center">
-  <img src="C:\Users\Camil\Desktop\JCcastroEsteban\Facebook-Linkedin-image-template-10.jpg" alt="">
+  <img src="https://d1ub0o53i85pdh.cloudfront.net/uploads/2021/09/Facebook-Linkedin-image-template-10.jpg" alt="">
 </p>
 
  <h3>Sobre mi</h3>
@@ -30,7 +30,7 @@ const JCCastroEsteban = {
 
 <h3 align="left">Conecta conmigo! :</h3>
 <p align="left">
-<a href="hwww.linkedin.com/in/yohan-camilo-castro-esteban-6b0489291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago-navarro" height="30" width="40" /></a>
+<a href="hwww.linkedin.com/in/yohan-camilo-castro-esteban-6b0489291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Camilo Castro" height="30" width="40" /></a>
 </p>
 
   
