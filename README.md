@@ -1,11 +1,11 @@
 
- <h1 align="center">Hola Soy Camilo 💻 👋</h1>
+ <h1 align="center">Hola Soy Camilo </h1>
  <h2 align="center">Colombia/Bogotá</h2>
  <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fleobit.com%2Fblog%2Ffull-stack-developer-a-godsend-or-a-problem%2F&psig=AOvVaw3byFk2jYTjgLKRHtZpEsqn&ust=1707590603178000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD52Oz0noQDFQAAAAAdAAAAABAP" alt="">
+  <img src="![alt text](Facebook-Linkedin-image-template-10.jpg)" alt="">
 </p>
 
- <h3> sobre mi </h3>
+ <h3>Sobre mi</h3>
  <p>
  Soy una persona a la que le gusta mucho la programación. Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es 
   como Full Stack, tengo una preferencia hacia el área de Front-End. Actualmente, continúo instruyéndome con nuevas 
