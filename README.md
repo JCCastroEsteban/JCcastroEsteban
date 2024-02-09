@@ -2,7 +2,7 @@
  <h1 align="center">Hola Soy Camilo </h1>
  <h2 align="center">Colombia/Bogotá</h2>
  <p align="center">
-  <img src="https://d1ub0o53i85pdh.cloudfront.net/uploads/2021/09/Facebook-Linkedin-image-template-10.jpg" alt="">
+  <img src="https://content-webapi.tuni.fi/image-style/metatag_image/proxy/public/2020-12/JOP_Smart_fullstack_1440_koulutuskortti.png?itok=OKJ7EWZW" alt="">
 </p>
 
  <h3>Sobre mi</h3>
